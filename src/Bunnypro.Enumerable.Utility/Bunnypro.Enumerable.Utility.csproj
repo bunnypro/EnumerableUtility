@@ -4,4 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageDescription>Enumerable Utility Extension</PackageDescription>
+    <Authors>Mubarrid Albar</Authors>
+    <Owners>Mubarrid Albar</Owners>
+    <PackageLicenseUrl>https://github.com/bunnypro/EnumerableUtility/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/bunnypro/EnumerableUtility</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bunnypro/EnumerableUtility</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
 </Project>
